@@ -2,7 +2,7 @@ eportfolio by elsiewongPGcs
 https://elsiewongpgcs.github.io/eportfolio/ | @elsiewongPGcs
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
+This is Elsie, my latest and greatest addition to HTML5 UP and, per its incredibly
 creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
 set up to smoothly transition to secondary landing pages (for which a separate page
 template is provided), and includes a number of neat effects (check out the menu!),
