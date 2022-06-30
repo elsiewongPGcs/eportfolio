@@ -1,6 +1,5 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+eportfolio by elsiewongPGcs
+https://elsiewongpgcs.github.io/eportfolio/ | @elsiewongPGcs
 
 
 This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
@@ -19,7 +18,7 @@ aj@lkn.io | @ajlkn
 
 
 Credits:
-
+	Forty by @ajlkn 
 	Demo Images:
 		Unsplash (unsplash.com)
 
